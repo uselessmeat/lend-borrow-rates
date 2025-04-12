@@ -5,7 +5,7 @@ Borrow APR rates parser among of 4 lendings: aave, compound, fluid, morpho.
 
 ## Install
 1. ```bash
-   git clone SOME && cd SOME
+   git clone https://github.com/uselessmeat/lend-borrow-rates && cd lend-borrow-rates
    ```
 2. ```bash
    docker build -t borrow_rates .
